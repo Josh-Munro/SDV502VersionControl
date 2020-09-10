@@ -97,6 +97,7 @@ Git rebase is the process of moving or combining a sequence of commits to a new 
 git stash?
 git stash list
 git stash apply
+```
 <br />
 This allows you to stash changes, these changes are sent to a stack, this then allows you to switch branches and work elsewhere without commiting your work.
 <br />
