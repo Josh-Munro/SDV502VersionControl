@@ -14,7 +14,7 @@ gut cherry-pick
 how to unstage files using git..
 <br />
 some commands that are useful are..
-</br />
+<br />
 ```markdown
 git reset HEAD <file> : this removes files from staging, HEAD is the last commit of the branch.
 this keeps the file but keeps the modifications.
