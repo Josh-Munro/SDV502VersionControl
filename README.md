@@ -18,7 +18,7 @@ git cherry-pick
 
 <br />
 
-### Unstaging:<br /> 
+### Unstaging/Undo:<br /> 
 How to unstage files using git..
 <br />
 Some commands that are useful are..
@@ -60,7 +60,7 @@ If we want to remove a file from the repository but keep it on disk, If you forg
 
 <br />
 
-### unmodifying 
+### Unmodifying 
 
 <br />
 
@@ -74,5 +74,16 @@ git commit --amend
 
 this command takes the staging area and uses it for the commit, if you run this command after your commit, then the snapshot will be the exact same, and all that will change is the commit message.
 
+<br />
+
+```markdown
+git rebase 
+```
+</p>
+<p align="center"> 
+<img src="images/rebase.png" />
+</p>
+
+git rebase
 
 
