@@ -94,7 +94,7 @@ Git rebase is the process of moving or combining a sequence of commits to a new 
 ### Stashing
 
 ```markdown
-git stash?
+git stash
 git stash list
 git stash apply
 ```
@@ -106,3 +106,13 @@ This allows you to stash changes, these changes are sent to a stack, this then a
 <p align="center"> 
 <img src="images/git-stash.png" />
 </p>
+
+### Clean
+
+<br />
+
+markdown```
+git clean
+```
+
+Git clean allows to remove untracked files from the work tree.
