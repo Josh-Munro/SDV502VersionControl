@@ -87,19 +87,18 @@ git rebase
 
 <br />
 
-git rebase is the process of moving or combining a sequence of commits to a new base commit. the branch will look the same but with new commits. 
+Git rebase is the process of moving or combining a sequence of commits to a new base commit. the branch will look the same but with new commits. 
 
 <br />
 
 ### Stashing
 
 ```markdown
-git stash?<br />
-git stash list<br />
-git stash apply<br />
-```
+git stash?
+git stash list
+git stash apply
 <br />
-this allows you to stash changes, these changes are sent to a stack, this then allows you to switch branches and work elsewhere without commiting your work.
+This allows you to stash changes, these changes are sent to a stack, this then allows you to switch branches and work elsewhere without commiting your work.
 <br />
 
 </p>
