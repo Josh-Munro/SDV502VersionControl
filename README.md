@@ -58,7 +58,21 @@ If we want to remove a file from the repository but keep it on disk, If you forg
 <img src="images/diagram.png" />
 </p>
 
+<br />
 
+### unmodifying 
+
+<br />
+
+If you require to undo some changes made, here are some commands.
+
+<br />
+
+```markdown
+git commit --amend
+```
+
+this command takes the staging area and uses it for the commit, if you run this command after your commit, then the snapshot will be the exact same, and all that will change is the commit message.
 
 
 
