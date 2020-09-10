@@ -24,3 +24,6 @@ An example of unoding your commits is  ($ git commit --amend)
 There are two ways to insert changes from one branch into another branch, there is merging and rebasing. 
 With mergin you merge two different commits from different branches together. However, with git rebase you are able to apply the changes from one branch and apply it directly to the other commit and branch. Its like replaying the commit into another branch, rather than merging two commits/branches together
 
+*************************** Stashing **********************************
+Git stash allows the develop to record the state of their last directory. While they want to enter in a new clean directory. Git stash command saves your local changes while reverting back to the directroy with the head commit.
+You can view the stashed modifications wit this git command $ git stash list
