@@ -100,3 +100,9 @@ git stash apply<br />
 ```
 <br />
 this allows you to stash changes, these changes are sent to a stack, this then allows you to switch branches and work elsewhere without commiting your work.
+<br />
+
+</p>
+<p align="center"> 
+<img src="images/git-stash.png" />
+</p>
