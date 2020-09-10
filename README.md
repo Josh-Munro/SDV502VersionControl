@@ -7,7 +7,7 @@ Version contorl github activity
 Git cherry-pick applies changes made some existing commits.
 
 ```markdown
-gut cherry-pick
+git cherry-pick
 ```
 <br />
 
