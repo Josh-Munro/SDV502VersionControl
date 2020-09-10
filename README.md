@@ -1,5 +1,5 @@
 # SDV502VersionControl
-Version contorl github activity
+Version control github activity
 
 <br />
 
@@ -52,6 +52,11 @@ git rm <filename> --cache
 If we want to remove a file from the repository but keep it on disk, If you forgot to add it to your .gitignore file then use --cache
 
 <br />
+
+</p>
+<p align="center"> 
+<img src="images/diagram.png" />
+</p>
 
 
 
