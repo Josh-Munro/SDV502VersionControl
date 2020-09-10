@@ -111,8 +111,30 @@ This allows you to stash changes, these changes are sent to a stack, this then a
 
 <br />
 
-markdown```
+```markdown
 git clean
 ```
+<br />
+Git clean allows to remove untracked files from the work tree
+<br />
 
-Git clean allows to remove untracked files from the work tree.
+### branching workflow
+
+```markdown
+git checkout <branch/master>
+git fetch origin
+git reset --hard origin/master
+```
+<br />
+
+</p>
+<p align="center"> 
+<img src="images/flow.png" />
+</p>
+
+<br />
+
+git checkout origin: <branchname/master> Git checkout allows you to switch branches or restore working tree files.
+
+Git fetch <orign>: This command downloads content from a remote repo
+
